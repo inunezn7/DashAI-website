@@ -177,7 +177,6 @@
   width: 100%;
   display: flex;
   z-index: 1000;
-  position: relative;
   max-width: var(--dl-size-size-maxwidth);
   align-self: center;
   align-items: center;
